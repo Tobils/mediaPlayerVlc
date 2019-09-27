@@ -1,0 +1,5 @@
+/home/ade/Documents/develope-tobil/ALEXA/WIDYA_WOW/MediaPlayer/MediaPlayerVlc/build/CMakeFiles/rebuild_cache.dir
+/home/ade/Documents/develope-tobil/ALEXA/WIDYA_WOW/MediaPlayer/MediaPlayerVlc/build/CMakeFiles/edit_cache.dir
+/home/ade/Documents/develope-tobil/ALEXA/WIDYA_WOW/MediaPlayer/MediaPlayerVlc/build/MediaPlayer/CMakeFiles/rebuild_cache.dir
+/home/ade/Documents/develope-tobil/ALEXA/WIDYA_WOW/MediaPlayer/MediaPlayerVlc/build/MediaPlayer/CMakeFiles/edit_cache.dir
+/home/ade/Documents/develope-tobil/ALEXA/WIDYA_WOW/MediaPlayer/MediaPlayerVlc/build/MediaPlayer/CMakeFiles/mediaPlayer.dir
